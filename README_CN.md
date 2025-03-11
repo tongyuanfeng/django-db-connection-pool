@@ -2,7 +2,7 @@
 
 :star: 如果这个库能对你有所帮助，不妨点个star，谢谢:smile:
 
-驱动 Django 访问 MySQL、Oracle、PostgreSQL、JDBC (Oracle, OceanBase) 连接池的轮子,
+驱动 Django 访问 MySQL、Oracle、PostgreSQL(aurora_dsql)、JDBC (Oracle, OceanBase) 连接池的轮子,
 基于 [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) 队列池。
 在多进程、多线程 django 项目中，运行良好。
 
